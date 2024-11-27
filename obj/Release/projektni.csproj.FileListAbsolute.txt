@@ -1,0 +1,10 @@
+C:\Users\Admin\OneDrive\Radna površina\projektni\projektni\bin\Release\projektni.exe
+C:\Users\Admin\OneDrive\Radna površina\projektni\projektni\bin\Release\projektni.pdb
+C:\Users\Admin\OneDrive\Radna površina\projektni\projektni\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Radna površina\projektni\projektni\obj\Release\WindowsFormsApplication1.frmLogin.resources
+C:\Users\Admin\OneDrive\Radna površina\projektni\projektni\obj\Release\WindowsFormsApplication1.Main.resources
+C:\Users\Admin\OneDrive\Radna površina\projektni\projektni\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Radna površina\projektni\projektni\obj\Release\WindowsFormsApplication1.Resources.Locaton.resources
+C:\Users\Admin\OneDrive\Radna površina\projektni\projektni\obj\Release\projektni.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Radna površina\projektni\projektni\obj\Release\projektni.exe
+C:\Users\Admin\OneDrive\Radna površina\projektni\projektni\obj\Release\projektni.pdb
